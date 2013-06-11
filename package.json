@@ -1,0 +1,1 @@
+{"license": "", "description": "Checks your InoReader for unread news", "contributors": [], "author": "VampiRUS", "url": "", "dependencies": ["api-utils", "addon-kit"], "version": "initial.rev22", "lib": "lib", "fullName": "InoReader Informer", "main": "main", "id": "jid0-8Uf1STmQI5ImrAEQtrsdLxMJkDM", "name": "inoreader-informer"}
